@@ -119,7 +119,13 @@ for z in range(6):
     else:
         print("Try again\n")
 
+
+## Letting the user know the word the Wordler chose
 print("The word was", wordleword)
+
+
+
+
 """ This was all code for determining if the program was returning the correct true and false values in terms of the existentialness of letters and their placement
     for e in range(1):
         if firstletterexist == True:
